@@ -1,0 +1,6 @@
+* create sha256sum
+  sha256sum  filename
+
+* download and checksum using python:
+  
+
